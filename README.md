@@ -23,7 +23,7 @@ Raktdhaara is a decentralized application (DApp) developed on the Ethereum block
 
 ## Installation
 
-1. Clone the repository: `https://github.com/Suryansh1208/Raktdhaara.git`
+1. Clone the repository:'(https://github.com/sakshikasera/Raktdhaara-main.git)'
 2. Change directory: `cd blood-bank`
 3. Install dependencies: To install the Solidity compiler, you can use npm [Node Package Manager] (npm install -g solc)
 
@@ -49,5 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or further discussions, feel free to contact me at [suryanshpandey1208@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/suryansh-pandey).
+For any questions or further discussions, feel free to contact me at [sakshikasera10@gmail.com] or connect with me on [LinkedIn](linkedin.com/in/sakshikasera/).
 
